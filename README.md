@@ -1,6 +1,5 @@
 # compontents
-
-> common compontent Collection
+common compontent Collection
 
 # es6 compontent
 > ...
